@@ -8,7 +8,7 @@
   "productName": "YourAppName",
   "publish": {
     "provider": "github",
-    "token": "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"
+    "token": "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"
   },
   "directories": {
     "output": "release/${version}"
